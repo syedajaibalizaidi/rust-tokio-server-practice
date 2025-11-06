@@ -1,2 +1,5 @@
-Makefile linguist-vendored
-static/demo.html linguist-vendored
+static/* linguist-vendored
+web/* linguist-vendored
+*.html linguist-vendored
+*.sh linguist-vendored
+*.toml linguist-vendored
